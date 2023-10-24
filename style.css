@@ -1,0 +1,36 @@
+body{
+    background-image:url(coding1.jpg),url();
+    background-repeat: no-repeat; 
+    color:white;
+    text-align: center;
+    
+    background-size:100%;
+    background-size:cover;
+
+}
+#move{
+    position: relative;
+    text-align:center;
+    color:white;
+    top:200px;
+}
+#carousel{
+bottom:200px;
+}
+.form{
+    top:1000px;
+}
+.carousel-item{
+    height:32rem;
+    background:#777;
+}
+
+p{
+    position: relative;
+    top:1000px;
+}
+*{
+    margin:0;
+    padding:0;
+    
+}
