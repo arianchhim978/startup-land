@@ -44,5 +44,22 @@ button{
 }
 .bac{
     height: 200px;
-    background-color: grey;
+    background-color: rgb(148, 127, 255);
+}
+.ye{
+    padding-top:50px;
+    padding-left:50px;
+    padding-right: 50px;
+} 
+#contact{
+    text-align: center;
+    border : 1px solid black; 
+    margin-top:50px;
+    margin-left:155px;
+    padding-top:50px;
+    height:60px;
+    width:400px; 
+    border-radius: 8px;
+    background-color:rgb(127, 234, 255);
+
 }
